@@ -84,7 +84,7 @@ The app supports manipulation of the task list through functions like:
 
 ## 📸 Screenshot
 
-![App Screenshot](Todo List APP.png)
+https://github.com/aniljoiya/Todo-App/blob/main/Todo%20List%20APP.png
 
 
 ---
