@@ -84,7 +84,7 @@ The app supports manipulation of the task list through functions like:
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](Todo List APP.png)
 
 
 ---
